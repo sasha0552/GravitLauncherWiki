@@ -5,10 +5,10 @@
 
 ## Конфигурация <a id="configuration"></a>
 
-* [AuthProvider](authprovider.md)
-* [AuthHandler](authhandler.md)
-* [HWIDHandler](hwidhandler.md)
-* [Hibernate](hibernate.md)
+* [AuthProvider](configuration/authprovider.md)
+* [AuthHandler](configuration/authhandler.md)
+* [HWIDHandler](configuration/hwidhandler.md)
+* [Hibernate](configuration/hibernate.md)
 
 ## Модули <a id="modules"></a>
 
