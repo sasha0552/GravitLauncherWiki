@@ -15,30 +15,4 @@
 * Расширенная поддержка опциональных модов
 * Поддержка одновременно нескольких способов авторизации
 * Возможность скачивания файлов через CDN
-* Содержание
-  * [AuthProvider](authprovider.md)
-    * [Accept](authprovider.md#accept)
-    * [Reject](authprovider.md#reject)
-    * [MySQL](authprovider.md#mysql)
-    * [PostgreSQL](authprovider.md#postgresql)
-    * [Request](authprovider.md#request)
-    * [Json](authprovider.md#json)
-    * [Hibernate](authprovider.md#hibernate)
-  * [AuthHandler](authhandler.md#memory)
-    * [Memory](root/AuthHandler.md#memory)
-    * [MySQL](authhandler.md#mysql)
-    * [PostgreSQL](authhandler.md#postgresql)
-    * [Request](authhandler.md#request)
-    * [Json](authhandler.md#json)
-    * [Hibernate](authhandler.md#hibernate)
-  * [HWIDHandler](hwidhandler.md#accept)
-    * [Accept](root/HWIDHandler.md#accept)
-    * [Memory](hwidhandler.md#memory)
-    * [JsonFile](hwidhandler.md#jsonfile)
-    * [MySQL](hwidhandler.md#mysql)
-    * [PostgreSQL](hwidhandler.md#postgresql)
-    * [Json](hwidhandler.md#json)
-    * [Hibernate](hwidhandler.md#hibernate)
-  * [Hibernate](untitled-2.md)
-  * [Благодарности](thanks.md)
 

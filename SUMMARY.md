@@ -5,5 +5,5 @@
 * [AuthHandler](authhandler.md)
 * [HWIDHandler](hwidhandler.md)
 * [Hibernate](untitled-2.md)
-* [Thanks](thanks.md)
+* [Благодарности](thanks.md)
 
