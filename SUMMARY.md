@@ -1,11 +1,14 @@
 # Table of contents
 
 * [Заглавная](README.md)
+* [Благодарности](thanks.md)
+
+## Конфигурация <a id="configuration"></a>
+
 * [AuthProvider](authprovider.md)
 * [AuthHandler](authhandler.md)
 * [HWIDHandler](hwidhandler.md)
 * [Hibernate](hibernate.md)
-* [Благодарности](thanks.md)
 
 ## Модули <a id="modules"></a>
 
