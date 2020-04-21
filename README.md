@@ -1,4 +1,4 @@
-# index
+# Заглавная
 
 Наш лаунчер предоставляет огромные возможности для реализации ваших идей:
 
@@ -16,21 +16,21 @@
 * Поддержка одновременно нескольких способов авторизации
 * Возможность скачивания файлов через CDN
 * Содержание
-  * [AuthProvider](untitled-1.md)
-    * [Accept](untitled-1.md#accept)
-    * [Reject](untitled-1.md#reject)
-    * [MySQL](untitled-1.md#mysql)
-    * [PostgreSQL](untitled-1.md#postgresql)
-    * [Request](untitled-1.md#request)
-    * [Json](untitled-1.md#json)
-    * [Hibernate](untitled-1.md#hibernate)
-  * [AuthHandler](untitled.md#memory)
+  * [AuthProvider](authprovider.md)
+    * [Accept](authprovider.md#accept)
+    * [Reject](authprovider.md#reject)
+    * [MySQL](authprovider.md#mysql)
+    * [PostgreSQL](authprovider.md#postgresql)
+    * [Request](authprovider.md#request)
+    * [Json](authprovider.md#json)
+    * [Hibernate](authprovider.md#hibernate)
+  * [AuthHandler](authhandler.md#memory)
     * [Memory](root/AuthHandler.md#memory)
-    * [MySQL](untitled.md#mysql)
-    * [PostgreSQL](untitled.md#postgresql)
-    * [Request](untitled.md#request)
-    * [Json](untitled.md#json)
-    * [Hibernate](untitled.md#hibernate)
+    * [MySQL](authhandler.md#mysql)
+    * [PostgreSQL](authhandler.md#postgresql)
+    * [Request](authhandler.md#request)
+    * [Json](authhandler.md#json)
+    * [Hibernate](authhandler.md#hibernate)
   * [HWIDHandler](hwidhandler.md#accept)
     * [Accept](root/HWIDHandler.md#accept)
     * [Memory](hwidhandler.md#memory)
@@ -40,5 +40,5 @@
     * [Json](hwidhandler.md#json)
     * [Hibernate](hwidhandler.md#hibernate)
   * [Hibernate](untitled-2.md)
-  * [Благодарности](untitled-3.md)
+  * [Благодарности](thanks.md)
 
