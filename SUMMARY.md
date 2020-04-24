@@ -9,6 +9,7 @@
 * [AuthHandler](configuration/authhandler.md)
 * [HWIDHandler](configuration/hwidhandler.md)
 * [Hibernate](configuration/hibernate.md)
+* [ServerWrapper](configuration/serverwrapper.md)
 
 ## Модули <a id="modules"></a>
 

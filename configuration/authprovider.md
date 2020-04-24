@@ -137,7 +137,7 @@
 
 Ответ:
 
-```text
+```javascript
 {
   "username": "admin",
   "permissions": 0
@@ -146,7 +146,7 @@
 
 Ошибка:
 
-```text
+```javascript
 {
   "error": "Неверный логин или пароль"
 }
